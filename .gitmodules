@@ -1,3 +1,6 @@
 [submodule "src/foo_announce"]
 	path = src/foo_announce
 	url = https://github.com/teistiz/foo_announce.git
+[submodule "src/foo_rest"]
+	path = src/foo_rest
+	url = https://github.com/ivarboms/foo_rest.git
