@@ -1,0 +1,3 @@
+[submodule "src/foo_announce"]
+	path = src/foo_announce
+	url = https://github.com/teistiz/foo_announce.git
